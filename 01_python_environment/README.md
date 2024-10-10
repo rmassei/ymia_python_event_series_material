@@ -17,6 +17,7 @@ Examplary images can be downloaded at this [link](https://hub.knime.com/knime/sp
 
 **Before Starting**: Download the JN "2024_ymia_basic_data_processing" in 02_JN and part of the data!
 Move in that folder using the terminal (which is always cool and make you look professional)-> [CLI cheat sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+
 ---
 1) Open your terminal and check if conda is correctly installed. You can do this by typing:
 
@@ -26,6 +27,7 @@ conda --version
 
 A version number should appear if this was done correctly. Otherwise, you can check again 
 using the miniconda/miniforge terminal (search "miniconda" or "miniforge" in your search bar, a terminal bar should appear)
+
  ---
 2) Create a new environment with the necessary packages by typing:
 
