@@ -9,7 +9,7 @@ for the [YMIA - Python-Based Event Series](https://gerbi-gmb.de/teams/ymia/).
 | Date            | Event                                                                                                | Speaker            |
 |:----------------|:-----------------------------------------------------------------------------------------------------|--------------------|
 | 02.10.2024      | Getting started with Python: intro and set-up a conda environment                                    | Dr Riccardo Massei |
-| 09.10.2024      | 	LLMs in bioimage analysis: code generation and intro to bia-bob                                     | Dr Rober Haase     |
+| 09.10.2024      | 	LLMs in bioimage analysis: code generation and intro to bia-bob                                     | Dr Robert Haase     |
 | 14.10.2024      | Prompt engineering: how to generate good and functional code                                         | Dr. Caterina Fuster-Barceló|
 | 22.10.2024      | Cellpose session: guide through a human-in-the-loop approach for optimization of segmentation results| Dr. Friederike Kessel |
 
