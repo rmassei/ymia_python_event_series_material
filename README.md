@@ -23,4 +23,4 @@ for the [YMIA - Python-Based Event Series](https://gerbi-gmb.de/teams/ymia/).
 ### Practical Exercises
 
 - [Python environments](01_python_environment/README.md)
-- [bia-bob](002_bia_bob_code_generation/readme.md)
+- [bia-bob](02_bia_bob_code_generation/readme.md)
