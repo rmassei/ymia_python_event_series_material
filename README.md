@@ -17,7 +17,7 @@ for the [YMIA - Python-Based Event Series](https://gerbi-gmb.de/teams/ymia/).
 
 - [Getting started with Python: intro and set-up a conda environment](https://zenodo.org/records/13908480)
 - [LLMs in bioimage analysis: code generation and intro to bia-bob ](https://zenodo.org/records/13908108)
-- Prompt engineering: how to generate good and functional code
+- [Prompt engineering: how to generate good and functional code](https://zenodo.org/records/13929678)
 - Cellpose session: guide through a human-in-the-loop approach for optimization of segmentation results
 
 ### Practical Exercises
